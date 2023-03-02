@@ -1,0 +1,9 @@
+unittest
+requests
+uvicorn
+fastapi
+motor
+bson
+typing
+pydantic
+json

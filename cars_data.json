@@ -1,0 +1,42 @@
+[
+    {
+        "brand": "Tesla",
+        "model": "Model S",
+        "price": 89900,
+        "color": "red",
+        "year": 2022,
+        "weight": "2069-2162",
+        "motor_type": "electric",
+        "horse_power": "493-750"
+    },
+    {
+        "brand": "Tesla",
+        "model": "Model X",
+        "price": 121990,
+        "color": "black",
+        "year": 2022,
+        "weight": "2338-2467",
+        "motor_type": "electric",
+        "horse_power": "493-750"
+    },
+    {
+        "brand": "Ferrari",
+        "model": "F12",
+        "price": 300000,
+        "color": "yellow",
+        "year": 2017,
+        "weight": "1525",
+        "motor_type": "thermal",
+        "horse_power": "780"
+    },
+    {
+        "brand": "Bugatti",
+        "model": "Veyron",
+        "price": 1600000,
+        "color": "blue",
+        "year": 2005,
+        "weight": "1968",
+        "motor_type": "thermal",
+        "horse_power": "1200"
+    }
+]
